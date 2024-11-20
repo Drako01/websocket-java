@@ -1,4 +1,4 @@
-package com.armotusitio.cliente;
+package com.armotusitio.client;
 
 
 

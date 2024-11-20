@@ -1,4 +1,4 @@
-package com.armotusitio.servidor;
+package com.armotusitio.handler;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.socket.TextMessage;
